@@ -1,4 +1,4 @@
-# Min Cuts
+# Graph-Lib
 
 Implemented a generic graph library with support for both directed and undirected edges. 
 
