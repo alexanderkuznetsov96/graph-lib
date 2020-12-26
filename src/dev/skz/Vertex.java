@@ -18,22 +18,6 @@ class Vertex<K, E extends Edge<K>> {
     return this.key;
   }
 
-  // @Override
-  // public int hashCode() {
-  //   return label;
-  // }
-  //
-  // @Override
-  // public boolean equals(Object o) {
-  //   if (!(o instanceof Vertex)) {
-  //     return false;
-  //   }
-  //
-  //   Vertex other = (Vertex) o;
-  //
-  //   return other.label == label;
-  // }
-
   List<E> getEdges() {
     return edges;
   }
