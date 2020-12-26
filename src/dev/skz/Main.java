@@ -12,7 +12,7 @@ public class Main {
 
   public static void main(String[] args) {
     // EXAMPLE GRAPH
-		// UndirectedGraph<Integer> graph = new UndirectedGraph<>();
+    // UndirectedGraph<Integer> graph = new UndirectedGraph<>();
     // graph.addVertex(0);
     // graph.addVertex(1);
     // graph.addVertex(2);
